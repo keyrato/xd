@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Keylor_ProIII_Caso1", "Keylor_ProIII_Caso1.vbproj", "{3AC761C0-4E44-4EA9-A0E8-FF0E75741B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC761C0-4E44-4EA9-A0E8-FF0E75741B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC761C0-4E44-4EA9-A0E8-FF0E75741B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC761C0-4E44-4EA9-A0E8-FF0E75741B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC761C0-4E44-4EA9-A0E8-FF0E75741B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D471CB0-EADC-4963-8DDF-CC33A80A3E04}
+	EndGlobalSection
+EndGlobal
